@@ -1,0 +1,6287 @@
+ccopy_reg
+_reconstructor
+p1
+(cmeld.vault
+DataStore
+p2
+c__builtin__
+object
+p3
+NtRp4
+(dp5
+S'_n_atoms'
+p6
+I1231
+sS'_current_block'
+p7
+I0
+sS'_pdb_writer'
+p8
+g1
+(cmeld.pdb_writer
+PDBWriter
+p9
+g3
+NtRp10
+(dp11
+S'_residue_names'
+p12
+(lp13
+S'MET'
+p14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+ag14
+aS'GLN'
+p15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+ag15
+aS'ILE'
+p16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+ag16
+aS'PHE'
+p17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+ag17
+aS'VAL'
+p18
+ag18
+ag18
+ag18
+ag18
+ag18
+ag18
+ag18
+ag18
+ag18
+ag18
+ag18
+ag18
+ag18
+ag18
+ag18
+aS'LYS'
+p19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+ag19
+aS'THR'
+p20
+ag20
+ag20
+ag20
+ag20
+ag20
+ag20
+ag20
+ag20
+ag20
+ag20
+ag20
+ag20
+ag20
+aS'LEU'
+p21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+ag21
+aS'THR'
+p22
+ag22
+ag22
+ag22
+ag22
+ag22
+ag22
+ag22
+ag22
+ag22
+ag22
+ag22
+ag22
+ag22
+aS'GLY'
+p23
+ag23
+ag23
+ag23
+ag23
+ag23
+ag23
+aS'LYS'
+p24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+ag24
+aS'THR'
+p25
+ag25
+ag25
+ag25
+ag25
+ag25
+ag25
+ag25
+ag25
+ag25
+ag25
+ag25
+ag25
+ag25
+aS'ILE'
+p26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+ag26
+aS'THR'
+p27
+ag27
+ag27
+ag27
+ag27
+ag27
+ag27
+ag27
+ag27
+ag27
+ag27
+ag27
+ag27
+ag27
+aS'LEU'
+p28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+ag28
+aS'GLU'
+p29
+ag29
+ag29
+ag29
+ag29
+ag29
+ag29
+ag29
+ag29
+ag29
+ag29
+ag29
+ag29
+ag29
+ag29
+aS'VAL'
+p30
+ag30
+ag30
+ag30
+ag30
+ag30
+ag30
+ag30
+ag30
+ag30
+ag30
+ag30
+ag30
+ag30
+ag30
+ag30
+aS'GLU'
+p31
+ag31
+ag31
+ag31
+ag31
+ag31
+ag31
+ag31
+ag31
+ag31
+ag31
+ag31
+ag31
+ag31
+ag31
+aS'PRO'
+p32
+ag32
+ag32
+ag32
+ag32
+ag32
+ag32
+ag32
+ag32
+ag32
+ag32
+ag32
+ag32
+ag32
+aS'SER'
+p33
+ag33
+ag33
+ag33
+ag33
+ag33
+ag33
+ag33
+ag33
+ag33
+ag33
+aS'ASP'
+p34
+ag34
+ag34
+ag34
+ag34
+ag34
+ag34
+ag34
+ag34
+ag34
+ag34
+ag34
+aS'THR'
+p35
+ag35
+ag35
+ag35
+ag35
+ag35
+ag35
+ag35
+ag35
+ag35
+ag35
+ag35
+ag35
+ag35
+aS'ILE'
+p36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+ag36
+aS'GLU'
+p37
+ag37
+ag37
+ag37
+ag37
+ag37
+ag37
+ag37
+ag37
+ag37
+ag37
+ag37
+ag37
+ag37
+ag37
+aS'ASN'
+p38
+ag38
+ag38
+ag38
+ag38
+ag38
+ag38
+ag38
+ag38
+ag38
+ag38
+ag38
+ag38
+ag38
+aS'VAL'
+p39
+ag39
+ag39
+ag39
+ag39
+ag39
+ag39
+ag39
+ag39
+ag39
+ag39
+ag39
+ag39
+ag39
+ag39
+ag39
+aS'LYS'
+p40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+ag40
+aS'ALA'
+p41
+ag41
+ag41
+ag41
+ag41
+ag41
+ag41
+ag41
+ag41
+ag41
+aS'LYS'
+p42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+ag42
+aS'ILE'
+p43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+ag43
+aS'GLN'
+p44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+ag44
+aS'ASP'
+p45
+ag45
+ag45
+ag45
+ag45
+ag45
+ag45
+ag45
+ag45
+ag45
+ag45
+ag45
+aS'LYS'
+p46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+ag46
+aS'GLU'
+p47
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+ag47
+aS'GLY'
+p48
+ag48
+ag48
+ag48
+ag48
+ag48
+ag48
+aS'ILE'
+p49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+ag49
+aS'PRO'
+p50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+aS'PRO'
+p51
+ag51
+ag51
+ag51
+ag51
+ag51
+ag51
+ag51
+ag51
+ag51
+ag51
+ag51
+ag51
+ag51
+aS'ASP'
+p52
+ag52
+ag52
+ag52
+ag52
+ag52
+ag52
+ag52
+ag52
+ag52
+ag52
+ag52
+aS'GLN'
+p53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+aS'GLN'
+p54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+ag54
+aS'ARG'
+p55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+ag55
+aS'LEU'
+p56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+ag56
+aS'ILE'
+p57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+ag57
+aS'PHE'
+p58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+ag58
+aS'ALA'
+p59
+ag59
+ag59
+ag59
+ag59
+ag59
+ag59
+ag59
+ag59
+ag59
+aS'GLY'
+p60
+ag60
+ag60
+ag60
+ag60
+ag60
+ag60
+aS'LYS'
+p61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+ag61
+aS'GLN'
+p62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+ag62
+aS'LEU'
+p63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+aS'GLU'
+p64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+aS'ASP'
+p65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+aS'GLY'
+p66
+ag66
+ag66
+ag66
+ag66
+ag66
+ag66
+aS'ARG'
+p67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+ag67
+aS'THR'
+p68
+ag68
+ag68
+ag68
+ag68
+ag68
+ag68
+ag68
+ag68
+ag68
+ag68
+ag68
+ag68
+ag68
+aS'LEU'
+p69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+ag69
+aS'SER'
+p70
+ag70
+ag70
+ag70
+ag70
+ag70
+ag70
+ag70
+ag70
+ag70
+ag70
+aS'ASP'
+p71
+ag71
+ag71
+ag71
+ag71
+ag71
+ag71
+ag71
+ag71
+ag71
+ag71
+ag71
+aS'TYR'
+p72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+ag72
+aS'ASN'
+p73
+ag73
+ag73
+ag73
+ag73
+ag73
+ag73
+ag73
+ag73
+ag73
+ag73
+ag73
+ag73
+ag73
+aS'ILE'
+p74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+ag74
+aS'GLN'
+p75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+ag75
+aS'LYS'
+p76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+ag76
+aS'GLU'
+p77
+ag77
+ag77
+ag77
+ag77
+ag77
+ag77
+ag77
+ag77
+ag77
+ag77
+ag77
+ag77
+ag77
+ag77
+aS'SER'
+p78
+ag78
+ag78
+ag78
+ag78
+ag78
+ag78
+ag78
+ag78
+ag78
+ag78
+aS'THR'
+p79
+ag79
+ag79
+ag79
+ag79
+ag79
+ag79
+ag79
+ag79
+ag79
+ag79
+ag79
+ag79
+ag79
+aS'LEU'
+p80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+ag80
+aS'HIE'
+p81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+ag81
+aS'LEU'
+p82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+ag82
+aS'VAL'
+p83
+ag83
+ag83
+ag83
+ag83
+ag83
+ag83
+ag83
+ag83
+ag83
+ag83
+ag83
+ag83
+ag83
+ag83
+ag83
+aS'LEU'
+p84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+ag84
+aS'ARG'
+p85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+ag85
+aS'LEU'
+p86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+ag86
+aS'ARG'
+p87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+ag87
+aS'GLY'
+p88
+ag88
+ag88
+ag88
+ag88
+ag88
+ag88
+aS'GLY'
+p89
+ag89
+ag89
+ag89
+ag89
+ag89
+ag89
+ag89
+asg6
+I1231
+sS'_atom_names'
+p90
+(lp91
+S' N'
+p92
+aS' H1'
+p93
+aS' H2'
+p94
+aS' H3'
+p95
+aS' CA'
+p96
+aS' HA'
+p97
+aS' CB'
+p98
+aS' HB2'
+p99
+aS' HB3'
+p100
+aS' CG'
+p101
+aS' HG2'
+p102
+aS' HG3'
+p103
+aS' SD'
+p104
+aS' CE'
+p105
+aS' HE1'
+p106
+aS' HE2'
+p107
+aS' HE3'
+p108
+aS' C'
+p109
+aS' O'
+p110
+aS' N'
+p111
+aS' H'
+p112
+aS' CA'
+p113
+aS' HA'
+p114
+aS' CB'
+p115
+aS' HB2'
+p116
+aS' HB3'
+p117
+aS' CG'
+p118
+aS' HG2'
+p119
+aS' HG3'
+p120
+aS' CD'
+p121
+aS' OE1'
+p122
+aS' NE2'
+p123
+aS'HE21'
+p124
+aS'HE22'
+p125
+aS' C'
+p126
+aS' O'
+p127
+aS' N'
+p128
+aS' H'
+p129
+aS' CA'
+p130
+aS' HA'
+p131
+aS' CB'
+p132
+aS' HB'
+p133
+aS' CG2'
+p134
+aS'HG21'
+p135
+aS'HG22'
+p136
+aS'HG23'
+p137
+aS' CG1'
+p138
+aS'HG12'
+p139
+aS'HG13'
+p140
+aS' CD1'
+p141
+aS'HD11'
+p142
+aS'HD12'
+p143
+aS'HD13'
+p144
+aS' C'
+p145
+aS' O'
+p146
+aS' N'
+p147
+aS' H'
+p148
+aS' CA'
+p149
+aS' HA'
+p150
+aS' CB'
+p151
+aS' HB2'
+p152
+aS' HB3'
+p153
+aS' CG'
+p154
+aS' CD1'
+p155
+aS' HD1'
+p156
+aS' CE1'
+p157
+aS' HE1'
+p158
+aS' CZ'
+p159
+aS' HZ'
+p160
+aS' CE2'
+p161
+aS' HE2'
+p162
+aS' CD2'
+p163
+aS' HD2'
+p164
+aS' C'
+p165
+aS' O'
+p166
+aS' N'
+p167
+aS' H'
+p168
+aS' CA'
+p169
+aS' HA'
+p170
+aS' CB'
+p171
+aS' HB'
+p172
+aS' CG1'
+p173
+aS'HG11'
+p174
+aS'HG12'
+p175
+aS'HG13'
+p176
+aS' CG2'
+p177
+aS'HG21'
+p178
+aS'HG22'
+p179
+aS'HG23'
+p180
+aS' C'
+p181
+aS' O'
+p182
+aS' N'
+p183
+aS' H'
+p184
+aS' CA'
+p185
+aS' HA'
+p186
+aS' CB'
+p187
+aS' HB2'
+p188
+aS' HB3'
+p189
+aS' CG'
+p190
+aS' HG2'
+p191
+aS' HG3'
+p192
+aS' CD'
+p193
+aS' HD2'
+p194
+aS' HD3'
+p195
+aS' CE'
+p196
+aS' HE2'
+p197
+aS' HE3'
+p198
+aS' NZ'
+p199
+aS' HZ1'
+p200
+aS' HZ2'
+p201
+aS' HZ3'
+p202
+aS' C'
+p203
+aS' O'
+p204
+aS' N'
+p205
+aS' H'
+p206
+aS' CA'
+p207
+aS' HA'
+p208
+aS' CB'
+p209
+aS' HB'
+p210
+aS' CG2'
+p211
+aS'HG21'
+p212
+aS'HG22'
+p213
+aS'HG23'
+p214
+aS' OG1'
+p215
+aS' HG1'
+p216
+aS' C'
+p217
+aS' O'
+p218
+aS' N'
+p219
+aS' H'
+p220
+aS' CA'
+p221
+aS' HA'
+p222
+aS' CB'
+p223
+aS' HB2'
+p224
+aS' HB3'
+p225
+aS' CG'
+p226
+aS' HG'
+p227
+aS' CD1'
+p228
+aS'HD11'
+p229
+aS'HD12'
+p230
+aS'HD13'
+p231
+aS' CD2'
+p232
+aS'HD21'
+p233
+aS'HD22'
+p234
+aS'HD23'
+p235
+aS' C'
+p236
+aS' O'
+p237
+aS' N'
+p238
+aS' H'
+p239
+aS' CA'
+p240
+aS' HA'
+p241
+aS' CB'
+p242
+aS' HB'
+p243
+aS' CG2'
+p244
+aS'HG21'
+p245
+aS'HG22'
+p246
+aS'HG23'
+p247
+aS' OG1'
+p248
+aS' HG1'
+p249
+aS' C'
+p250
+aS' O'
+p251
+aS' N'
+p252
+aS' H'
+p253
+aS' CA'
+p254
+aS' HA2'
+p255
+aS' HA3'
+p256
+aS' C'
+p257
+aS' O'
+p258
+aS' N'
+p259
+aS' H'
+p260
+aS' CA'
+p261
+aS' HA'
+p262
+aS' CB'
+p263
+aS' HB2'
+p264
+aS' HB3'
+p265
+aS' CG'
+p266
+aS' HG2'
+p267
+aS' HG3'
+p268
+aS' CD'
+p269
+aS' HD2'
+p270
+aS' HD3'
+p271
+aS' CE'
+p272
+aS' HE2'
+p273
+aS' HE3'
+p274
+aS' NZ'
+p275
+aS' HZ1'
+p276
+aS' HZ2'
+p277
+aS' HZ3'
+p278
+aS' C'
+p279
+aS' O'
+p280
+aS' N'
+p281
+aS' H'
+p282
+aS' CA'
+p283
+aS' HA'
+p284
+aS' CB'
+p285
+aS' HB'
+p286
+aS' CG2'
+p287
+aS'HG21'
+p288
+aS'HG22'
+p289
+aS'HG23'
+p290
+aS' OG1'
+p291
+aS' HG1'
+p292
+aS' C'
+p293
+aS' O'
+p294
+aS' N'
+p295
+aS' H'
+p296
+aS' CA'
+p297
+aS' HA'
+p298
+aS' CB'
+p299
+aS' HB'
+p300
+aS' CG2'
+p301
+aS'HG21'
+p302
+aS'HG22'
+p303
+aS'HG23'
+p304
+aS' CG1'
+p305
+aS'HG12'
+p306
+aS'HG13'
+p307
+aS' CD1'
+p308
+aS'HD11'
+p309
+aS'HD12'
+p310
+aS'HD13'
+p311
+aS' C'
+p312
+aS' O'
+p313
+aS' N'
+p314
+aS' H'
+p315
+aS' CA'
+p316
+aS' HA'
+p317
+aS' CB'
+p318
+aS' HB'
+p319
+aS' CG2'
+p320
+aS'HG21'
+p321
+aS'HG22'
+p322
+aS'HG23'
+p323
+aS' OG1'
+p324
+aS' HG1'
+p325
+aS' C'
+p326
+aS' O'
+p327
+aS' N'
+p328
+aS' H'
+p329
+aS' CA'
+p330
+aS' HA'
+p331
+aS' CB'
+p332
+aS' HB2'
+p333
+aS' HB3'
+p334
+aS' CG'
+p335
+aS' HG'
+p336
+aS' CD1'
+p337
+aS'HD11'
+p338
+aS'HD12'
+p339
+aS'HD13'
+p340
+aS' CD2'
+p341
+aS'HD21'
+p342
+aS'HD22'
+p343
+aS'HD23'
+p344
+aS' C'
+p345
+aS' O'
+p346
+aS' N'
+p347
+aS' H'
+p348
+aS' CA'
+p349
+aS' HA'
+p350
+aS' CB'
+p351
+aS' HB2'
+p352
+aS' HB3'
+p353
+aS' CG'
+p354
+aS' HG2'
+p355
+aS' HG3'
+p356
+aS' CD'
+p357
+aS' OE1'
+p358
+aS' OE2'
+p359
+aS' C'
+p360
+aS' O'
+p361
+aS' N'
+p362
+aS' H'
+p363
+aS' CA'
+p364
+aS' HA'
+p365
+aS' CB'
+p366
+aS' HB'
+p367
+aS' CG1'
+p368
+aS'HG11'
+p369
+aS'HG12'
+p370
+aS'HG13'
+p371
+aS' CG2'
+p372
+aS'HG21'
+p373
+aS'HG22'
+p374
+aS'HG23'
+p375
+aS' C'
+p376
+aS' O'
+p377
+aS' N'
+p378
+aS' H'
+p379
+aS' CA'
+p380
+aS' HA'
+p381
+aS' CB'
+p382
+aS' HB2'
+p383
+aS' HB3'
+p384
+aS' CG'
+p385
+aS' HG2'
+p386
+aS' HG3'
+p387
+aS' CD'
+p388
+aS' OE1'
+p389
+aS' OE2'
+p390
+aS' C'
+p391
+aS' O'
+p392
+aS' N'
+p393
+aS' CD'
+p394
+aS' HD2'
+p395
+aS' HD3'
+p396
+aS' CG'
+p397
+aS' HG2'
+p398
+aS' HG3'
+p399
+aS' CB'
+p400
+aS' HB2'
+p401
+aS' HB3'
+p402
+aS' CA'
+p403
+aS' HA'
+p404
+aS' C'
+p405
+aS' O'
+p406
+aS' N'
+p407
+aS' H'
+p408
+aS' CA'
+p409
+aS' HA'
+p410
+aS' CB'
+p411
+aS' HB2'
+p412
+aS' HB3'
+p413
+aS' OG'
+p414
+aS' HG'
+p415
+aS' C'
+p416
+aS' O'
+p417
+aS' N'
+p418
+aS' H'
+p419
+aS' CA'
+p420
+aS' HA'
+p421
+aS' CB'
+p422
+aS' HB2'
+p423
+aS' HB3'
+p424
+aS' CG'
+p425
+aS' OD1'
+p426
+aS' OD2'
+p427
+aS' C'
+p428
+aS' O'
+p429
+aS' N'
+p430
+aS' H'
+p431
+aS' CA'
+p432
+aS' HA'
+p433
+aS' CB'
+p434
+aS' HB'
+p435
+aS' CG2'
+p436
+aS'HG21'
+p437
+aS'HG22'
+p438
+aS'HG23'
+p439
+aS' OG1'
+p440
+aS' HG1'
+p441
+aS' C'
+p442
+aS' O'
+p443
+aS' N'
+p444
+aS' H'
+p445
+aS' CA'
+p446
+aS' HA'
+p447
+aS' CB'
+p448
+aS' HB'
+p449
+aS' CG2'
+p450
+aS'HG21'
+p451
+aS'HG22'
+p452
+aS'HG23'
+p453
+aS' CG1'
+p454
+aS'HG12'
+p455
+aS'HG13'
+p456
+aS' CD1'
+p457
+aS'HD11'
+p458
+aS'HD12'
+p459
+aS'HD13'
+p460
+aS' C'
+p461
+aS' O'
+p462
+aS' N'
+p463
+aS' H'
+p464
+aS' CA'
+p465
+aS' HA'
+p466
+aS' CB'
+p467
+aS' HB2'
+p468
+aS' HB3'
+p469
+aS' CG'
+p470
+aS' HG2'
+p471
+aS' HG3'
+p472
+aS' CD'
+p473
+aS' OE1'
+p474
+aS' OE2'
+p475
+aS' C'
+p476
+aS' O'
+p477
+aS' N'
+p478
+aS' H'
+p479
+aS' CA'
+p480
+aS' HA'
+p481
+aS' CB'
+p482
+aS' HB2'
+p483
+aS' HB3'
+p484
+aS' CG'
+p485
+aS' OD1'
+p486
+aS' ND2'
+p487
+aS'HD21'
+p488
+aS'HD22'
+p489
+aS' C'
+p490
+aS' O'
+p491
+aS' N'
+p492
+aS' H'
+p493
+aS' CA'
+p494
+aS' HA'
+p495
+aS' CB'
+p496
+aS' HB'
+p497
+aS' CG1'
+p498
+aS'HG11'
+p499
+aS'HG12'
+p500
+aS'HG13'
+p501
+aS' CG2'
+p502
+aS'HG21'
+p503
+aS'HG22'
+p504
+aS'HG23'
+p505
+aS' C'
+p506
+aS' O'
+p507
+aS' N'
+p508
+aS' H'
+p509
+aS' CA'
+p510
+aS' HA'
+p511
+aS' CB'
+p512
+aS' HB2'
+p513
+aS' HB3'
+p514
+aS' CG'
+p515
+aS' HG2'
+p516
+aS' HG3'
+p517
+aS' CD'
+p518
+aS' HD2'
+p519
+aS' HD3'
+p520
+aS' CE'
+p521
+aS' HE2'
+p522
+aS' HE3'
+p523
+aS' NZ'
+p524
+aS' HZ1'
+p525
+aS' HZ2'
+p526
+aS' HZ3'
+p527
+aS' C'
+p528
+aS' O'
+p529
+aS' N'
+p530
+aS' H'
+p531
+aS' CA'
+p532
+aS' HA'
+p533
+aS' CB'
+p534
+aS' HB1'
+p535
+aS' HB2'
+p536
+aS' HB3'
+p537
+aS' C'
+p538
+aS' O'
+p539
+aS' N'
+p540
+aS' H'
+p541
+aS' CA'
+p542
+aS' HA'
+p543
+aS' CB'
+p544
+aS' HB2'
+p545
+aS' HB3'
+p546
+aS' CG'
+p547
+aS' HG2'
+p548
+aS' HG3'
+p549
+aS' CD'
+p550
+aS' HD2'
+p551
+aS' HD3'
+p552
+aS' CE'
+p553
+aS' HE2'
+p554
+aS' HE3'
+p555
+aS' NZ'
+p556
+aS' HZ1'
+p557
+aS' HZ2'
+p558
+aS' HZ3'
+p559
+aS' C'
+p560
+aS' O'
+p561
+aS' N'
+p562
+aS' H'
+p563
+aS' CA'
+p564
+aS' HA'
+p565
+aS' CB'
+p566
+aS' HB'
+p567
+aS' CG2'
+p568
+aS'HG21'
+p569
+aS'HG22'
+p570
+aS'HG23'
+p571
+aS' CG1'
+p572
+aS'HG12'
+p573
+aS'HG13'
+p574
+aS' CD1'
+p575
+aS'HD11'
+p576
+aS'HD12'
+p577
+aS'HD13'
+p578
+aS' C'
+p579
+aS' O'
+p580
+aS' N'
+p581
+aS' H'
+p582
+aS' CA'
+p583
+aS' HA'
+p584
+aS' CB'
+p585
+aS' HB2'
+p586
+aS' HB3'
+p587
+aS' CG'
+p588
+aS' HG2'
+p589
+aS' HG3'
+p590
+aS' CD'
+p591
+aS' OE1'
+p592
+aS' NE2'
+p593
+aS'HE21'
+p594
+aS'HE22'
+p595
+aS' C'
+p596
+aS' O'
+p597
+aS' N'
+p598
+aS' H'
+p599
+aS' CA'
+p600
+aS' HA'
+p601
+aS' CB'
+p602
+aS' HB2'
+p603
+aS' HB3'
+p604
+aS' CG'
+p605
+aS' OD1'
+p606
+aS' OD2'
+p607
+aS' C'
+p608
+aS' O'
+p609
+aS' N'
+p610
+aS' H'
+p611
+aS' CA'
+p612
+aS' HA'
+p613
+aS' CB'
+p614
+aS' HB2'
+p615
+aS' HB3'
+p616
+aS' CG'
+p617
+aS' HG2'
+p618
+aS' HG3'
+p619
+aS' CD'
+p620
+aS' HD2'
+p621
+aS' HD3'
+p622
+aS' CE'
+p623
+aS' HE2'
+p624
+aS' HE3'
+p625
+aS' NZ'
+p626
+aS' HZ1'
+p627
+aS' HZ2'
+p628
+aS' HZ3'
+p629
+aS' C'
+p630
+aS' O'
+p631
+aS' N'
+p632
+aS' H'
+p633
+aS' CA'
+p634
+aS' HA'
+p635
+aS' CB'
+p636
+aS' HB2'
+p637
+aS' HB3'
+p638
+aS' CG'
+p639
+aS' HG2'
+p640
+aS' HG3'
+p641
+aS' CD'
+p642
+aS' OE1'
+p643
+aS' OE2'
+p644
+aS' C'
+p645
+aS' O'
+p646
+aS' N'
+p647
+aS' H'
+p648
+aS' CA'
+p649
+aS' HA2'
+p650
+aS' HA3'
+p651
+aS' C'
+p652
+aS' O'
+p653
+aS' N'
+p654
+aS' H'
+p655
+aS' CA'
+p656
+aS' HA'
+p657
+aS' CB'
+p658
+aS' HB'
+p659
+aS' CG2'
+p660
+aS'HG21'
+p661
+aS'HG22'
+p662
+aS'HG23'
+p663
+aS' CG1'
+p664
+aS'HG12'
+p665
+aS'HG13'
+p666
+aS' CD1'
+p667
+aS'HD11'
+p668
+aS'HD12'
+p669
+aS'HD13'
+p670
+aS' C'
+p671
+aS' O'
+p672
+aS' N'
+p673
+aS' CD'
+p674
+aS' HD2'
+p675
+aS' HD3'
+p676
+aS' CG'
+p677
+aS' HG2'
+p678
+aS' HG3'
+p679
+aS' CB'
+p680
+aS' HB2'
+p681
+aS' HB3'
+p682
+aS' CA'
+p683
+aS' HA'
+p684
+aS' C'
+p685
+aS' O'
+p686
+aS' N'
+p687
+aS' CD'
+p688
+aS' HD2'
+p689
+aS' HD3'
+p690
+aS' CG'
+p691
+aS' HG2'
+p692
+aS' HG3'
+p693
+aS' CB'
+p694
+aS' HB2'
+p695
+aS' HB3'
+p696
+aS' CA'
+p697
+aS' HA'
+p698
+aS' C'
+p699
+aS' O'
+p700
+aS' N'
+p701
+aS' H'
+p702
+aS' CA'
+p703
+aS' HA'
+p704
+aS' CB'
+p705
+aS' HB2'
+p706
+aS' HB3'
+p707
+aS' CG'
+p708
+aS' OD1'
+p709
+aS' OD2'
+p710
+aS' C'
+p711
+aS' O'
+p712
+aS' N'
+p713
+aS' H'
+p714
+aS' CA'
+p715
+aS' HA'
+p716
+aS' CB'
+p717
+aS' HB2'
+p718
+aS' HB3'
+p719
+aS' CG'
+p720
+aS' HG2'
+p721
+aS' HG3'
+p722
+aS' CD'
+p723
+aS' OE1'
+p724
+aS' NE2'
+p725
+aS'HE21'
+p726
+aS'HE22'
+p727
+aS' C'
+p728
+aS' O'
+p729
+aS' N'
+p730
+aS' H'
+p731
+aS' CA'
+p732
+aS' HA'
+p733
+aS' CB'
+p734
+aS' HB2'
+p735
+aS' HB3'
+p736
+aS' CG'
+p737
+aS' HG2'
+p738
+aS' HG3'
+p739
+aS' CD'
+p740
+aS' OE1'
+p741
+aS' NE2'
+p742
+aS'HE21'
+p743
+aS'HE22'
+p744
+aS' C'
+p745
+aS' O'
+p746
+aS' N'
+p747
+aS' H'
+p748
+aS' CA'
+p749
+aS' HA'
+p750
+aS' CB'
+p751
+aS' HB2'
+p752
+aS' HB3'
+p753
+aS' CG'
+p754
+aS' HG2'
+p755
+aS' HG3'
+p756
+aS' CD'
+p757
+aS' HD2'
+p758
+aS' HD3'
+p759
+aS' NE'
+p760
+aS' HE'
+p761
+aS' CZ'
+p762
+aS' NH1'
+p763
+aS'HH11'
+p764
+aS'HH12'
+p765
+aS' NH2'
+p766
+aS'HH21'
+p767
+aS'HH22'
+p768
+aS' C'
+p769
+aS' O'
+p770
+aS' N'
+p771
+aS' H'
+p772
+aS' CA'
+p773
+aS' HA'
+p774
+aS' CB'
+p775
+aS' HB2'
+p776
+aS' HB3'
+p777
+aS' CG'
+p778
+aS' HG'
+p779
+aS' CD1'
+p780
+aS'HD11'
+p781
+aS'HD12'
+p782
+aS'HD13'
+p783
+aS' CD2'
+p784
+aS'HD21'
+p785
+aS'HD22'
+p786
+aS'HD23'
+p787
+aS' C'
+p788
+aS' O'
+p789
+aS' N'
+p790
+aS' H'
+p791
+aS' CA'
+p792
+aS' HA'
+p793
+aS' CB'
+p794
+aS' HB'
+p795
+aS' CG2'
+p796
+aS'HG21'
+p797
+aS'HG22'
+p798
+aS'HG23'
+p799
+aS' CG1'
+p800
+aS'HG12'
+p801
+aS'HG13'
+p802
+aS' CD1'
+p803
+aS'HD11'
+p804
+aS'HD12'
+p805
+aS'HD13'
+p806
+aS' C'
+p807
+aS' O'
+p808
+aS' N'
+p809
+aS' H'
+p810
+aS' CA'
+p811
+aS' HA'
+p812
+aS' CB'
+p813
+aS' HB2'
+p814
+aS' HB3'
+p815
+aS' CG'
+p816
+aS' CD1'
+p817
+aS' HD1'
+p818
+aS' CE1'
+p819
+aS' HE1'
+p820
+aS' CZ'
+p821
+aS' HZ'
+p822
+aS' CE2'
+p823
+aS' HE2'
+p824
+aS' CD2'
+p825
+aS' HD2'
+p826
+aS' C'
+p827
+aS' O'
+p828
+aS' N'
+p829
+aS' H'
+p830
+aS' CA'
+p831
+aS' HA'
+p832
+aS' CB'
+p833
+aS' HB1'
+p834
+aS' HB2'
+p835
+aS' HB3'
+p836
+aS' C'
+p837
+aS' O'
+p838
+aS' N'
+p839
+aS' H'
+p840
+aS' CA'
+p841
+aS' HA2'
+p842
+aS' HA3'
+p843
+aS' C'
+p844
+aS' O'
+p845
+aS' N'
+p846
+aS' H'
+p847
+aS' CA'
+p848
+aS' HA'
+p849
+aS' CB'
+p850
+aS' HB2'
+p851
+aS' HB3'
+p852
+aS' CG'
+p853
+aS' HG2'
+p854
+aS' HG3'
+p855
+aS' CD'
+p856
+aS' HD2'
+p857
+aS' HD3'
+p858
+aS' CE'
+p859
+aS' HE2'
+p860
+aS' HE3'
+p861
+aS' NZ'
+p862
+aS' HZ1'
+p863
+aS' HZ2'
+p864
+aS' HZ3'
+p865
+aS' C'
+p866
+aS' O'
+p867
+aS' N'
+p868
+aS' H'
+p869
+aS' CA'
+p870
+aS' HA'
+p871
+aS' CB'
+p872
+aS' HB2'
+p873
+aS' HB3'
+p874
+aS' CG'
+p875
+aS' HG2'
+p876
+aS' HG3'
+p877
+aS' CD'
+p878
+aS' OE1'
+p879
+aS' NE2'
+p880
+aS'HE21'
+p881
+aS'HE22'
+p882
+aS' C'
+p883
+aS' O'
+p884
+aS' N'
+p885
+aS' H'
+p886
+aS' CA'
+p887
+aS' HA'
+p888
+aS' CB'
+p889
+aS' HB2'
+p890
+aS' HB3'
+p891
+aS' CG'
+p892
+aS' HG'
+p893
+aS' CD1'
+p894
+aS'HD11'
+p895
+aS'HD12'
+p896
+aS'HD13'
+p897
+aS' CD2'
+p898
+aS'HD21'
+p899
+aS'HD22'
+p900
+aS'HD23'
+p901
+aS' C'
+p902
+aS' O'
+p903
+aS' N'
+p904
+aS' H'
+p905
+aS' CA'
+p906
+aS' HA'
+p907
+aS' CB'
+p908
+aS' HB2'
+p909
+aS' HB3'
+p910
+aS' CG'
+p911
+aS' HG2'
+p912
+aS' HG3'
+p913
+aS' CD'
+p914
+aS' OE1'
+p915
+aS' OE2'
+p916
+aS' C'
+p917
+aS' O'
+p918
+aS' N'
+p919
+aS' H'
+p920
+aS' CA'
+p921
+aS' HA'
+p922
+aS' CB'
+p923
+aS' HB2'
+p924
+aS' HB3'
+p925
+aS' CG'
+p926
+aS' OD1'
+p927
+aS' OD2'
+p928
+aS' C'
+p929
+aS' O'
+p930
+aS' N'
+p931
+aS' H'
+p932
+aS' CA'
+p933
+aS' HA2'
+p934
+aS' HA3'
+p935
+aS' C'
+p936
+aS' O'
+p937
+aS' N'
+p938
+aS' H'
+p939
+aS' CA'
+p940
+aS' HA'
+p941
+aS' CB'
+p942
+aS' HB2'
+p943
+aS' HB3'
+p944
+aS' CG'
+p945
+aS' HG2'
+p946
+aS' HG3'
+p947
+aS' CD'
+p948
+aS' HD2'
+p949
+aS' HD3'
+p950
+aS' NE'
+p951
+aS' HE'
+p952
+aS' CZ'
+p953
+aS' NH1'
+p954
+aS'HH11'
+p955
+aS'HH12'
+p956
+aS' NH2'
+p957
+aS'HH21'
+p958
+aS'HH22'
+p959
+aS' C'
+p960
+aS' O'
+p961
+aS' N'
+p962
+aS' H'
+p963
+aS' CA'
+p964
+aS' HA'
+p965
+aS' CB'
+p966
+aS' HB'
+p967
+aS' CG2'
+p968
+aS'HG21'
+p969
+aS'HG22'
+p970
+aS'HG23'
+p971
+aS' OG1'
+p972
+aS' HG1'
+p973
+aS' C'
+p974
+aS' O'
+p975
+aS' N'
+p976
+aS' H'
+p977
+aS' CA'
+p978
+aS' HA'
+p979
+aS' CB'
+p980
+aS' HB2'
+p981
+aS' HB3'
+p982
+aS' CG'
+p983
+aS' HG'
+p984
+aS' CD1'
+p985
+aS'HD11'
+p986
+aS'HD12'
+p987
+aS'HD13'
+p988
+aS' CD2'
+p989
+aS'HD21'
+p990
+aS'HD22'
+p991
+aS'HD23'
+p992
+aS' C'
+p993
+aS' O'
+p994
+aS' N'
+p995
+aS' H'
+p996
+aS' CA'
+p997
+aS' HA'
+p998
+aS' CB'
+p999
+aS' HB2'
+p1000
+aS' HB3'
+p1001
+aS' OG'
+p1002
+aS' HG'
+p1003
+aS' C'
+p1004
+aS' O'
+p1005
+aS' N'
+p1006
+aS' H'
+p1007
+aS' CA'
+p1008
+aS' HA'
+p1009
+aS' CB'
+p1010
+aS' HB2'
+p1011
+aS' HB3'
+p1012
+aS' CG'
+p1013
+aS' OD1'
+p1014
+aS' OD2'
+p1015
+aS' C'
+p1016
+aS' O'
+p1017
+aS' N'
+p1018
+aS' H'
+p1019
+aS' CA'
+p1020
+aS' HA'
+p1021
+aS' CB'
+p1022
+aS' HB2'
+p1023
+aS' HB3'
+p1024
+aS' CG'
+p1025
+aS' CD1'
+p1026
+aS' HD1'
+p1027
+aS' CE1'
+p1028
+aS' HE1'
+p1029
+aS' CZ'
+p1030
+aS' OH'
+p1031
+aS' HH'
+p1032
+aS' CE2'
+p1033
+aS' HE2'
+p1034
+aS' CD2'
+p1035
+aS' HD2'
+p1036
+aS' C'
+p1037
+aS' O'
+p1038
+aS' N'
+p1039
+aS' H'
+p1040
+aS' CA'
+p1041
+aS' HA'
+p1042
+aS' CB'
+p1043
+aS' HB2'
+p1044
+aS' HB3'
+p1045
+aS' CG'
+p1046
+aS' OD1'
+p1047
+aS' ND2'
+p1048
+aS'HD21'
+p1049
+aS'HD22'
+p1050
+aS' C'
+p1051
+aS' O'
+p1052
+aS' N'
+p1053
+aS' H'
+p1054
+aS' CA'
+p1055
+aS' HA'
+p1056
+aS' CB'
+p1057
+aS' HB'
+p1058
+aS' CG2'
+p1059
+aS'HG21'
+p1060
+aS'HG22'
+p1061
+aS'HG23'
+p1062
+aS' CG1'
+p1063
+aS'HG12'
+p1064
+aS'HG13'
+p1065
+aS' CD1'
+p1066
+aS'HD11'
+p1067
+aS'HD12'
+p1068
+aS'HD13'
+p1069
+aS' C'
+p1070
+aS' O'
+p1071
+aS' N'
+p1072
+aS' H'
+p1073
+aS' CA'
+p1074
+aS' HA'
+p1075
+aS' CB'
+p1076
+aS' HB2'
+p1077
+aS' HB3'
+p1078
+aS' CG'
+p1079
+aS' HG2'
+p1080
+aS' HG3'
+p1081
+aS' CD'
+p1082
+aS' OE1'
+p1083
+aS' NE2'
+p1084
+aS'HE21'
+p1085
+aS'HE22'
+p1086
+aS' C'
+p1087
+aS' O'
+p1088
+aS' N'
+p1089
+aS' H'
+p1090
+aS' CA'
+p1091
+aS' HA'
+p1092
+aS' CB'
+p1093
+aS' HB2'
+p1094
+aS' HB3'
+p1095
+aS' CG'
+p1096
+aS' HG2'
+p1097
+aS' HG3'
+p1098
+aS' CD'
+p1099
+aS' HD2'
+p1100
+aS' HD3'
+p1101
+aS' CE'
+p1102
+aS' HE2'
+p1103
+aS' HE3'
+p1104
+aS' NZ'
+p1105
+aS' HZ1'
+p1106
+aS' HZ2'
+p1107
+aS' HZ3'
+p1108
+aS' C'
+p1109
+aS' O'
+p1110
+aS' N'
+p1111
+aS' H'
+p1112
+aS' CA'
+p1113
+aS' HA'
+p1114
+aS' CB'
+p1115
+aS' HB2'
+p1116
+aS' HB3'
+p1117
+aS' CG'
+p1118
+aS' HG2'
+p1119
+aS' HG3'
+p1120
+aS' CD'
+p1121
+aS' OE1'
+p1122
+aS' OE2'
+p1123
+aS' C'
+p1124
+aS' O'
+p1125
+aS' N'
+p1126
+aS' H'
+p1127
+aS' CA'
+p1128
+aS' HA'
+p1129
+aS' CB'
+p1130
+aS' HB2'
+p1131
+aS' HB3'
+p1132
+aS' OG'
+p1133
+aS' HG'
+p1134
+aS' C'
+p1135
+aS' O'
+p1136
+aS' N'
+p1137
+aS' H'
+p1138
+aS' CA'
+p1139
+aS' HA'
+p1140
+aS' CB'
+p1141
+aS' HB'
+p1142
+aS' CG2'
+p1143
+aS'HG21'
+p1144
+aS'HG22'
+p1145
+aS'HG23'
+p1146
+aS' OG1'
+p1147
+aS' HG1'
+p1148
+aS' C'
+p1149
+aS' O'
+p1150
+aS' N'
+p1151
+aS' H'
+p1152
+aS' CA'
+p1153
+aS' HA'
+p1154
+aS' CB'
+p1155
+aS' HB2'
+p1156
+aS' HB3'
+p1157
+aS' CG'
+p1158
+aS' HG'
+p1159
+aS' CD1'
+p1160
+aS'HD11'
+p1161
+aS'HD12'
+p1162
+aS'HD13'
+p1163
+aS' CD2'
+p1164
+aS'HD21'
+p1165
+aS'HD22'
+p1166
+aS'HD23'
+p1167
+aS' C'
+p1168
+aS' O'
+p1169
+aS' N'
+p1170
+aS' H'
+p1171
+aS' CA'
+p1172
+aS' HA'
+p1173
+aS' CB'
+p1174
+aS' HB2'
+p1175
+aS' HB3'
+p1176
+aS' CG'
+p1177
+aS' ND1'
+p1178
+aS' CE1'
+p1179
+aS' HE1'
+p1180
+aS' NE2'
+p1181
+aS' HE2'
+p1182
+aS' CD2'
+p1183
+aS' HD2'
+p1184
+aS' C'
+p1185
+aS' O'
+p1186
+aS' N'
+p1187
+aS' H'
+p1188
+aS' CA'
+p1189
+aS' HA'
+p1190
+aS' CB'
+p1191
+aS' HB2'
+p1192
+aS' HB3'
+p1193
+aS' CG'
+p1194
+aS' HG'
+p1195
+aS' CD1'
+p1196
+aS'HD11'
+p1197
+aS'HD12'
+p1198
+aS'HD13'
+p1199
+aS' CD2'
+p1200
+aS'HD21'
+p1201
+aS'HD22'
+p1202
+aS'HD23'
+p1203
+aS' C'
+p1204
+aS' O'
+p1205
+aS' N'
+p1206
+aS' H'
+p1207
+aS' CA'
+p1208
+aS' HA'
+p1209
+aS' CB'
+p1210
+aS' HB'
+p1211
+aS' CG1'
+p1212
+aS'HG11'
+p1213
+aS'HG12'
+p1214
+aS'HG13'
+p1215
+aS' CG2'
+p1216
+aS'HG21'
+p1217
+aS'HG22'
+p1218
+aS'HG23'
+p1219
+aS' C'
+p1220
+aS' O'
+p1221
+aS' N'
+p1222
+aS' H'
+p1223
+aS' CA'
+p1224
+aS' HA'
+p1225
+aS' CB'
+p1226
+aS' HB2'
+p1227
+aS' HB3'
+p1228
+aS' CG'
+p1229
+aS' HG'
+p1230
+aS' CD1'
+p1231
+aS'HD11'
+p1232
+aS'HD12'
+p1233
+aS'HD13'
+p1234
+aS' CD2'
+p1235
+aS'HD21'
+p1236
+aS'HD22'
+p1237
+aS'HD23'
+p1238
+aS' C'
+p1239
+aS' O'
+p1240
+aS' N'
+p1241
+aS' H'
+p1242
+aS' CA'
+p1243
+aS' HA'
+p1244
+aS' CB'
+p1245
+aS' HB2'
+p1246
+aS' HB3'
+p1247
+aS' CG'
+p1248
+aS' HG2'
+p1249
+aS' HG3'
+p1250
+aS' CD'
+p1251
+aS' HD2'
+p1252
+aS' HD3'
+p1253
+aS' NE'
+p1254
+aS' HE'
+p1255
+aS' CZ'
+p1256
+aS' NH1'
+p1257
+aS'HH11'
+p1258
+aS'HH12'
+p1259
+aS' NH2'
+p1260
+aS'HH21'
+p1261
+aS'HH22'
+p1262
+aS' C'
+p1263
+aS' O'
+p1264
+aS' N'
+p1265
+aS' H'
+p1266
+aS' CA'
+p1267
+aS' HA'
+p1268
+aS' CB'
+p1269
+aS' HB2'
+p1270
+aS' HB3'
+p1271
+aS' CG'
+p1272
+aS' HG'
+p1273
+aS' CD1'
+p1274
+aS'HD11'
+p1275
+aS'HD12'
+p1276
+aS'HD13'
+p1277
+aS' CD2'
+p1278
+aS'HD21'
+p1279
+aS'HD22'
+p1280
+aS'HD23'
+p1281
+aS' C'
+p1282
+aS' O'
+p1283
+aS' N'
+p1284
+aS' H'
+p1285
+aS' CA'
+p1286
+aS' HA'
+p1287
+aS' CB'
+p1288
+aS' HB2'
+p1289
+aS' HB3'
+p1290
+aS' CG'
+p1291
+aS' HG2'
+p1292
+aS' HG3'
+p1293
+aS' CD'
+p1294
+aS' HD2'
+p1295
+aS' HD3'
+p1296
+aS' NE'
+p1297
+aS' HE'
+p1298
+aS' CZ'
+p1299
+aS' NH1'
+p1300
+aS'HH11'
+p1301
+aS'HH12'
+p1302
+aS' NH2'
+p1303
+aS'HH21'
+p1304
+aS'HH22'
+p1305
+aS' C'
+p1306
+aS' O'
+p1307
+aS' N'
+p1308
+aS' H'
+p1309
+aS' CA'
+p1310
+aS' HA2'
+p1311
+aS' HA3'
+p1312
+aS' C'
+p1313
+aS' O'
+p1314
+aS' N'
+p1315
+aS' H'
+p1316
+aS' CA'
+p1317
+aS' HA2'
+p1318
+aS' HA3'
+p1319
+aS' C'
+p1320
+aS' O'
+p1321
+aS' OXT'
+p1322
+asS'_atom_numbers'
+p1323
+(lp1324
+I1
+aI2
+aI3
+aI4
+aI5
+aI6
+aI7
+aI8
+aI9
+aI10
+aI11
+aI12
+aI13
+aI14
+aI15
+aI16
+aI17
+aI18
+aI19
+aI20
+aI21
+aI22
+aI23
+aI24
+aI25
+aI26
+aI27
+aI28
+aI29
+aI30
+aI31
+aI32
+aI33
+aI34
+aI35
+aI36
+aI37
+aI38
+aI39
+aI40
+aI41
+aI42
+aI43
+aI44
+aI45
+aI46
+aI47
+aI48
+aI49
+aI50
+aI51
+aI52
+aI53
+aI54
+aI55
+aI56
+aI57
+aI58
+aI59
+aI60
+aI61
+aI62
+aI63
+aI64
+aI65
+aI66
+aI67
+aI68
+aI69
+aI70
+aI71
+aI72
+aI73
+aI74
+aI75
+aI76
+aI77
+aI78
+aI79
+aI80
+aI81
+aI82
+aI83
+aI84
+aI85
+aI86
+aI87
+aI88
+aI89
+aI90
+aI91
+aI92
+aI93
+aI94
+aI95
+aI96
+aI97
+aI98
+aI99
+aI100
+aI101
+aI102
+aI103
+aI104
+aI105
+aI106
+aI107
+aI108
+aI109
+aI110
+aI111
+aI112
+aI113
+aI114
+aI115
+aI116
+aI117
+aI118
+aI119
+aI120
+aI121
+aI122
+aI123
+aI124
+aI125
+aI126
+aI127
+aI128
+aI129
+aI130
+aI131
+aI132
+aI133
+aI134
+aI135
+aI136
+aI137
+aI138
+aI139
+aI140
+aI141
+aI142
+aI143
+aI144
+aI145
+aI146
+aI147
+aI148
+aI149
+aI150
+aI151
+aI152
+aI153
+aI154
+aI155
+aI156
+aI157
+aI158
+aI159
+aI160
+aI161
+aI162
+aI163
+aI164
+aI165
+aI166
+aI167
+aI168
+aI169
+aI170
+aI171
+aI172
+aI173
+aI174
+aI175
+aI176
+aI177
+aI178
+aI179
+aI180
+aI181
+aI182
+aI183
+aI184
+aI185
+aI186
+aI187
+aI188
+aI189
+aI190
+aI191
+aI192
+aI193
+aI194
+aI195
+aI196
+aI197
+aI198
+aI199
+aI200
+aI201
+aI202
+aI203
+aI204
+aI205
+aI206
+aI207
+aI208
+aI209
+aI210
+aI211
+aI212
+aI213
+aI214
+aI215
+aI216
+aI217
+aI218
+aI219
+aI220
+aI221
+aI222
+aI223
+aI224
+aI225
+aI226
+aI227
+aI228
+aI229
+aI230
+aI231
+aI232
+aI233
+aI234
+aI235
+aI236
+aI237
+aI238
+aI239
+aI240
+aI241
+aI242
+aI243
+aI244
+aI245
+aI246
+aI247
+aI248
+aI249
+aI250
+aI251
+aI252
+aI253
+aI254
+aI255
+aI256
+aI257
+aI258
+aI259
+aI260
+aI261
+aI262
+aI263
+aI264
+aI265
+aI266
+aI267
+aI268
+aI269
+aI270
+aI271
+aI272
+aI273
+aI274
+aI275
+aI276
+aI277
+aI278
+aI279
+aI280
+aI281
+aI282
+aI283
+aI284
+aI285
+aI286
+aI287
+aI288
+aI289
+aI290
+aI291
+aI292
+aI293
+aI294
+aI295
+aI296
+aI297
+aI298
+aI299
+aI300
+aI301
+aI302
+aI303
+aI304
+aI305
+aI306
+aI307
+aI308
+aI309
+aI310
+aI311
+aI312
+aI313
+aI314
+aI315
+aI316
+aI317
+aI318
+aI319
+aI320
+aI321
+aI322
+aI323
+aI324
+aI325
+aI326
+aI327
+aI328
+aI329
+aI330
+aI331
+aI332
+aI333
+aI334
+aI335
+aI336
+aI337
+aI338
+aI339
+aI340
+aI341
+aI342
+aI343
+aI344
+aI345
+aI346
+aI347
+aI348
+aI349
+aI350
+aI351
+aI352
+aI353
+aI354
+aI355
+aI356
+aI357
+aI358
+aI359
+aI360
+aI361
+aI362
+aI363
+aI364
+aI365
+aI366
+aI367
+aI368
+aI369
+aI370
+aI371
+aI372
+aI373
+aI374
+aI375
+aI376
+aI377
+aI378
+aI379
+aI380
+aI381
+aI382
+aI383
+aI384
+aI385
+aI386
+aI387
+aI388
+aI389
+aI390
+aI391
+aI392
+aI393
+aI394
+aI395
+aI396
+aI397
+aI398
+aI399
+aI400
+aI401
+aI402
+aI403
+aI404
+aI405
+aI406
+aI407
+aI408
+aI409
+aI410
+aI411
+aI412
+aI413
+aI414
+aI415
+aI416
+aI417
+aI418
+aI419
+aI420
+aI421
+aI422
+aI423
+aI424
+aI425
+aI426
+aI427
+aI428
+aI429
+aI430
+aI431
+aI432
+aI433
+aI434
+aI435
+aI436
+aI437
+aI438
+aI439
+aI440
+aI441
+aI442
+aI443
+aI444
+aI445
+aI446
+aI447
+aI448
+aI449
+aI450
+aI451
+aI452
+aI453
+aI454
+aI455
+aI456
+aI457
+aI458
+aI459
+aI460
+aI461
+aI462
+aI463
+aI464
+aI465
+aI466
+aI467
+aI468
+aI469
+aI470
+aI471
+aI472
+aI473
+aI474
+aI475
+aI476
+aI477
+aI478
+aI479
+aI480
+aI481
+aI482
+aI483
+aI484
+aI485
+aI486
+aI487
+aI488
+aI489
+aI490
+aI491
+aI492
+aI493
+aI494
+aI495
+aI496
+aI497
+aI498
+aI499
+aI500
+aI501
+aI502
+aI503
+aI504
+aI505
+aI506
+aI507
+aI508
+aI509
+aI510
+aI511
+aI512
+aI513
+aI514
+aI515
+aI516
+aI517
+aI518
+aI519
+aI520
+aI521
+aI522
+aI523
+aI524
+aI525
+aI526
+aI527
+aI528
+aI529
+aI530
+aI531
+aI532
+aI533
+aI534
+aI535
+aI536
+aI537
+aI538
+aI539
+aI540
+aI541
+aI542
+aI543
+aI544
+aI545
+aI546
+aI547
+aI548
+aI549
+aI550
+aI551
+aI552
+aI553
+aI554
+aI555
+aI556
+aI557
+aI558
+aI559
+aI560
+aI561
+aI562
+aI563
+aI564
+aI565
+aI566
+aI567
+aI568
+aI569
+aI570
+aI571
+aI572
+aI573
+aI574
+aI575
+aI576
+aI577
+aI578
+aI579
+aI580
+aI581
+aI582
+aI583
+aI584
+aI585
+aI586
+aI587
+aI588
+aI589
+aI590
+aI591
+aI592
+aI593
+aI594
+aI595
+aI596
+aI597
+aI598
+aI599
+aI600
+aI601
+aI602
+aI603
+aI604
+aI605
+aI606
+aI607
+aI608
+aI609
+aI610
+aI611
+aI612
+aI613
+aI614
+aI615
+aI616
+aI617
+aI618
+aI619
+aI620
+aI621
+aI622
+aI623
+aI624
+aI625
+aI626
+aI627
+aI628
+aI629
+aI630
+aI631
+aI632
+aI633
+aI634
+aI635
+aI636
+aI637
+aI638
+aI639
+aI640
+aI641
+aI642
+aI643
+aI644
+aI645
+aI646
+aI647
+aI648
+aI649
+aI650
+aI651
+aI652
+aI653
+aI654
+aI655
+aI656
+aI657
+aI658
+aI659
+aI660
+aI661
+aI662
+aI663
+aI664
+aI665
+aI666
+aI667
+aI668
+aI669
+aI670
+aI671
+aI672
+aI673
+aI674
+aI675
+aI676
+aI677
+aI678
+aI679
+aI680
+aI681
+aI682
+aI683
+aI684
+aI685
+aI686
+aI687
+aI688
+aI689
+aI690
+aI691
+aI692
+aI693
+aI694
+aI695
+aI696
+aI697
+aI698
+aI699
+aI700
+aI701
+aI702
+aI703
+aI704
+aI705
+aI706
+aI707
+aI708
+aI709
+aI710
+aI711
+aI712
+aI713
+aI714
+aI715
+aI716
+aI717
+aI718
+aI719
+aI720
+aI721
+aI722
+aI723
+aI724
+aI725
+aI726
+aI727
+aI728
+aI729
+aI730
+aI731
+aI732
+aI733
+aI734
+aI735
+aI736
+aI737
+aI738
+aI739
+aI740
+aI741
+aI742
+aI743
+aI744
+aI745
+aI746
+aI747
+aI748
+aI749
+aI750
+aI751
+aI752
+aI753
+aI754
+aI755
+aI756
+aI757
+aI758
+aI759
+aI760
+aI761
+aI762
+aI763
+aI764
+aI765
+aI766
+aI767
+aI768
+aI769
+aI770
+aI771
+aI772
+aI773
+aI774
+aI775
+aI776
+aI777
+aI778
+aI779
+aI780
+aI781
+aI782
+aI783
+aI784
+aI785
+aI786
+aI787
+aI788
+aI789
+aI790
+aI791
+aI792
+aI793
+aI794
+aI795
+aI796
+aI797
+aI798
+aI799
+aI800
+aI801
+aI802
+aI803
+aI804
+aI805
+aI806
+aI807
+aI808
+aI809
+aI810
+aI811
+aI812
+aI813
+aI814
+aI815
+aI816
+aI817
+aI818
+aI819
+aI820
+aI821
+aI822
+aI823
+aI824
+aI825
+aI826
+aI827
+aI828
+aI829
+aI830
+aI831
+aI832
+aI833
+aI834
+aI835
+aI836
+aI837
+aI838
+aI839
+aI840
+aI841
+aI842
+aI843
+aI844
+aI845
+aI846
+aI847
+aI848
+aI849
+aI850
+aI851
+aI852
+aI853
+aI854
+aI855
+aI856
+aI857
+aI858
+aI859
+aI860
+aI861
+aI862
+aI863
+aI864
+aI865
+aI866
+aI867
+aI868
+aI869
+aI870
+aI871
+aI872
+aI873
+aI874
+aI875
+aI876
+aI877
+aI878
+aI879
+aI880
+aI881
+aI882
+aI883
+aI884
+aI885
+aI886
+aI887
+aI888
+aI889
+aI890
+aI891
+aI892
+aI893
+aI894
+aI895
+aI896
+aI897
+aI898
+aI899
+aI900
+aI901
+aI902
+aI903
+aI904
+aI905
+aI906
+aI907
+aI908
+aI909
+aI910
+aI911
+aI912
+aI913
+aI914
+aI915
+aI916
+aI917
+aI918
+aI919
+aI920
+aI921
+aI922
+aI923
+aI924
+aI925
+aI926
+aI927
+aI928
+aI929
+aI930
+aI931
+aI932
+aI933
+aI934
+aI935
+aI936
+aI937
+aI938
+aI939
+aI940
+aI941
+aI942
+aI943
+aI944
+aI945
+aI946
+aI947
+aI948
+aI949
+aI950
+aI951
+aI952
+aI953
+aI954
+aI955
+aI956
+aI957
+aI958
+aI959
+aI960
+aI961
+aI962
+aI963
+aI964
+aI965
+aI966
+aI967
+aI968
+aI969
+aI970
+aI971
+aI972
+aI973
+aI974
+aI975
+aI976
+aI977
+aI978
+aI979
+aI980
+aI981
+aI982
+aI983
+aI984
+aI985
+aI986
+aI987
+aI988
+aI989
+aI990
+aI991
+aI992
+aI993
+aI994
+aI995
+aI996
+aI997
+aI998
+aI999
+aI1000
+aI1001
+aI1002
+aI1003
+aI1004
+aI1005
+aI1006
+aI1007
+aI1008
+aI1009
+aI1010
+aI1011
+aI1012
+aI1013
+aI1014
+aI1015
+aI1016
+aI1017
+aI1018
+aI1019
+aI1020
+aI1021
+aI1022
+aI1023
+aI1024
+aI1025
+aI1026
+aI1027
+aI1028
+aI1029
+aI1030
+aI1031
+aI1032
+aI1033
+aI1034
+aI1035
+aI1036
+aI1037
+aI1038
+aI1039
+aI1040
+aI1041
+aI1042
+aI1043
+aI1044
+aI1045
+aI1046
+aI1047
+aI1048
+aI1049
+aI1050
+aI1051
+aI1052
+aI1053
+aI1054
+aI1055
+aI1056
+aI1057
+aI1058
+aI1059
+aI1060
+aI1061
+aI1062
+aI1063
+aI1064
+aI1065
+aI1066
+aI1067
+aI1068
+aI1069
+aI1070
+aI1071
+aI1072
+aI1073
+aI1074
+aI1075
+aI1076
+aI1077
+aI1078
+aI1079
+aI1080
+aI1081
+aI1082
+aI1083
+aI1084
+aI1085
+aI1086
+aI1087
+aI1088
+aI1089
+aI1090
+aI1091
+aI1092
+aI1093
+aI1094
+aI1095
+aI1096
+aI1097
+aI1098
+aI1099
+aI1100
+aI1101
+aI1102
+aI1103
+aI1104
+aI1105
+aI1106
+aI1107
+aI1108
+aI1109
+aI1110
+aI1111
+aI1112
+aI1113
+aI1114
+aI1115
+aI1116
+aI1117
+aI1118
+aI1119
+aI1120
+aI1121
+aI1122
+aI1123
+aI1124
+aI1125
+aI1126
+aI1127
+aI1128
+aI1129
+aI1130
+aI1131
+aI1132
+aI1133
+aI1134
+aI1135
+aI1136
+aI1137
+aI1138
+aI1139
+aI1140
+aI1141
+aI1142
+aI1143
+aI1144
+aI1145
+aI1146
+aI1147
+aI1148
+aI1149
+aI1150
+aI1151
+aI1152
+aI1153
+aI1154
+aI1155
+aI1156
+aI1157
+aI1158
+aI1159
+aI1160
+aI1161
+aI1162
+aI1163
+aI1164
+aI1165
+aI1166
+aI1167
+aI1168
+aI1169
+aI1170
+aI1171
+aI1172
+aI1173
+aI1174
+aI1175
+aI1176
+aI1177
+aI1178
+aI1179
+aI1180
+aI1181
+aI1182
+aI1183
+aI1184
+aI1185
+aI1186
+aI1187
+aI1188
+aI1189
+aI1190
+aI1191
+aI1192
+aI1193
+aI1194
+aI1195
+aI1196
+aI1197
+aI1198
+aI1199
+aI1200
+aI1201
+aI1202
+aI1203
+aI1204
+aI1205
+aI1206
+aI1207
+aI1208
+aI1209
+aI1210
+aI1211
+aI1212
+aI1213
+aI1214
+aI1215
+aI1216
+aI1217
+aI1218
+aI1219
+aI1220
+aI1221
+aI1222
+aI1223
+aI1224
+aI1225
+aI1226
+aI1227
+aI1228
+aI1229
+aI1230
+aI1231
+asS'_residue_numbers'
+p1325
+(lp1326
+I1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI2
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI5
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI6
+aI7
+aI7
+aI7
+aI7
+aI7
+aI7
+aI7
+aI7
+aI7
+aI7
+aI7
+aI7
+aI7
+aI7
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI8
+aI9
+aI9
+aI9
+aI9
+aI9
+aI9
+aI9
+aI9
+aI9
+aI9
+aI9
+aI9
+aI9
+aI9
+aI10
+aI10
+aI10
+aI10
+aI10
+aI10
+aI10
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI11
+aI12
+aI12
+aI12
+aI12
+aI12
+aI12
+aI12
+aI12
+aI12
+aI12
+aI12
+aI12
+aI12
+aI12
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI13
+aI14
+aI14
+aI14
+aI14
+aI14
+aI14
+aI14
+aI14
+aI14
+aI14
+aI14
+aI14
+aI14
+aI14
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI15
+aI16
+aI16
+aI16
+aI16
+aI16
+aI16
+aI16
+aI16
+aI16
+aI16
+aI16
+aI16
+aI16
+aI16
+aI16
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI17
+aI18
+aI18
+aI18
+aI18
+aI18
+aI18
+aI18
+aI18
+aI18
+aI18
+aI18
+aI18
+aI18
+aI18
+aI18
+aI19
+aI19
+aI19
+aI19
+aI19
+aI19
+aI19
+aI19
+aI19
+aI19
+aI19
+aI19
+aI19
+aI19
+aI20
+aI20
+aI20
+aI20
+aI20
+aI20
+aI20
+aI20
+aI20
+aI20
+aI20
+aI21
+aI21
+aI21
+aI21
+aI21
+aI21
+aI21
+aI21
+aI21
+aI21
+aI21
+aI21
+aI22
+aI22
+aI22
+aI22
+aI22
+aI22
+aI22
+aI22
+aI22
+aI22
+aI22
+aI22
+aI22
+aI22
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI23
+aI24
+aI24
+aI24
+aI24
+aI24
+aI24
+aI24
+aI24
+aI24
+aI24
+aI24
+aI24
+aI24
+aI24
+aI24
+aI25
+aI25
+aI25
+aI25
+aI25
+aI25
+aI25
+aI25
+aI25
+aI25
+aI25
+aI25
+aI25
+aI25
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI26
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI27
+aI28
+aI28
+aI28
+aI28
+aI28
+aI28
+aI28
+aI28
+aI28
+aI28
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI29
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI30
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI31
+aI32
+aI32
+aI32
+aI32
+aI32
+aI32
+aI32
+aI32
+aI32
+aI32
+aI32
+aI32
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI33
+aI34
+aI34
+aI34
+aI34
+aI34
+aI34
+aI34
+aI34
+aI34
+aI34
+aI34
+aI34
+aI34
+aI34
+aI34
+aI35
+aI35
+aI35
+aI35
+aI35
+aI35
+aI35
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI36
+aI37
+aI37
+aI37
+aI37
+aI37
+aI37
+aI37
+aI37
+aI37
+aI37
+aI37
+aI37
+aI37
+aI37
+aI38
+aI38
+aI38
+aI38
+aI38
+aI38
+aI38
+aI38
+aI38
+aI38
+aI38
+aI38
+aI38
+aI38
+aI39
+aI39
+aI39
+aI39
+aI39
+aI39
+aI39
+aI39
+aI39
+aI39
+aI39
+aI39
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI40
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI41
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI42
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI43
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI44
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI45
+aI46
+aI46
+aI46
+aI46
+aI46
+aI46
+aI46
+aI46
+aI46
+aI46
+aI47
+aI47
+aI47
+aI47
+aI47
+aI47
+aI47
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI48
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI49
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI50
+aI51
+aI51
+aI51
+aI51
+aI51
+aI51
+aI51
+aI51
+aI51
+aI51
+aI51
+aI51
+aI51
+aI51
+aI51
+aI52
+aI52
+aI52
+aI52
+aI52
+aI52
+aI52
+aI52
+aI52
+aI52
+aI52
+aI52
+aI53
+aI53
+aI53
+aI53
+aI53
+aI53
+aI53
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI54
+aI55
+aI55
+aI55
+aI55
+aI55
+aI55
+aI55
+aI55
+aI55
+aI55
+aI55
+aI55
+aI55
+aI55
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI56
+aI57
+aI57
+aI57
+aI57
+aI57
+aI57
+aI57
+aI57
+aI57
+aI57
+aI57
+aI58
+aI58
+aI58
+aI58
+aI58
+aI58
+aI58
+aI58
+aI58
+aI58
+aI58
+aI58
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI59
+aI60
+aI60
+aI60
+aI60
+aI60
+aI60
+aI60
+aI60
+aI60
+aI60
+aI60
+aI60
+aI60
+aI60
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI61
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI62
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI63
+aI64
+aI64
+aI64
+aI64
+aI64
+aI64
+aI64
+aI64
+aI64
+aI64
+aI64
+aI64
+aI64
+aI64
+aI64
+aI65
+aI65
+aI65
+aI65
+aI65
+aI65
+aI65
+aI65
+aI65
+aI65
+aI65
+aI66
+aI66
+aI66
+aI66
+aI66
+aI66
+aI66
+aI66
+aI66
+aI66
+aI66
+aI66
+aI66
+aI66
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI67
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI68
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI69
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI70
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI71
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI72
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI73
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI74
+aI75
+aI75
+aI75
+aI75
+aI75
+aI75
+aI75
+aI76
+aI76
+aI76
+aI76
+aI76
+aI76
+aI76
+aI76
+asbsS'_n_replicas'
+p1327
+I2
+sS'_max_safe_block'
+p1328
+I-1
+sS'_readonly_mode'
+p1329
+I00
+sS'_block_size'
+p1330
+I2
+sS'_current_stage'
+p1331
+I0
+sb.
