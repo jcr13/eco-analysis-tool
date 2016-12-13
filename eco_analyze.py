@@ -3,7 +3,13 @@
 
 import pytraj as pt
 import networkx as nx
+import os
 from itertools import izip
+
+# check if edge_list_out.dat exists
+if ( os.path.isfile('edge_list_out.dat')):
+    print "Warning: edge_list_out.dat already exists"
+    exit(1)
 
 # load protein
 top = pt.load_topology('1ubq.parm7') # load as pdb (single structure)
@@ -48,9 +54,16 @@ with open('hydroph_dist.txt') as f_dist, open('hydroph_add-edges.txt') as f_edge
         if dist < 9:
             print("dist is less than 9")
             G.add_edge(int(src), int(dest))
+            new_edge = "%s \t %s" % (int(src), int(dest))
+            # write new edges to file
+            edge_list_out = open('edge_list_out.dat', 'a')
+            edge_list_out.write(new_edge)
+            edge_list_out.write("\n")
         else:
             print("dist is greater than 9")
         print dist
+
+edge_list_out.close()
 
 # check that updated graph has expected num and list of edges and nodes
 newnumedges = G.number_of_edges() # store new number of edges
