@@ -1,0 +1,13 @@
+proc draw_cyl {molnum} {
+
+set sel1a [atomselect $molnum "resid 1 and name CA"]
+set sel1b [atomselect $molnum "resid 17 and name CA"]
+set crd1a [lindex [$sel1a get {x y z}] $molnum]
+set crd1b [lindex [$sel1b get {x y z}] $molnum]
+graphics $molnum cylinder $crd1a $crd1b radius 0.5 filled yes
+set sel2a [atomselect $molnum "resid 1 and name CA"]
+set sel2b [atomselect $molnum "resid 19 and name CA"]
+set crd2a [lindex [$sel2a get {x y z}] $molnum]
+set crd2b [lindex [$sel2b get {x y z}] $molnum]
+graphics $molnum cylinder $crd2a $crd2b radius 0.5 filled yes
+}
