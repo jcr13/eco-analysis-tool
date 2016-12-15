@@ -1,0 +1,6 @@
+# 12/15/16 13:06:31
+parm 1bdd.parm7
+trajin 1bdd.nc 3000 3000 1
+trajout 1bdd.rst7
+run
+quit

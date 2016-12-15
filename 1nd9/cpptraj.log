@@ -1,0 +1,10 @@
+# 12/15/16 13:15:31
+parm 1nd9.parm7
+trajin 1nd9.nc
+quit
+# 12/15/16 13:15:44
+parm 1nd9.parm7
+trajin 1nd9.nc 10 10 1
+trajout 1nd9.rst7
+run
+quit
