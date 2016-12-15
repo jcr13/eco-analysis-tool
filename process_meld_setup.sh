@@ -2,7 +2,7 @@
 
 WORKDIR=`pwd`
 #MELDDIR=$WORKDIR/meld_setup
-MELDDIR=/home/james/dill/nonthreadable/1nd9
+MELDDIR=/home/james/tmp-data/cavern/aperez/Blue/Casp_Protocol/HigherTolerances_Feb24/1BDD
 
 grep hydroph $MELDDIR/setup.out | awk '{print $2 " " $3}' > $WORKDIR/hydroph_add-edges.txt
 

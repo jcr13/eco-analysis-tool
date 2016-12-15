@@ -13,7 +13,7 @@ if ( os.path.isfile('edge_list_out.dat')):
 
 # load protein
 #top = pt.load_topology('1ubq.parm7') # load as pdb (single structure)
-top = pt.load_topology('1nd9.parm7') # load as pdb (single structure)
+top = pt.load_topology('1bdd.parm7') # load as pdb (single structure)
 traj = pt.load('1ubq.rst7', '1ubq.parm7') # if loading traj
 simp_p = top.simplify() # return simplified topology
 
