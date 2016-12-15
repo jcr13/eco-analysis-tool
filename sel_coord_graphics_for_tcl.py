@@ -8,6 +8,7 @@ if ( os.path.isfile('cylinders.tcl')):
     print "Warning: cylinders.tcl already exists"
     exit(1)
             
+# open cylinders.tcl file and begin populating w/ vmd instructions
 cylinders = open('cylinders.tcl', 'w')
 proc_start = """proc draw_cyl {molnum sleep} {
 set num_frames [molinfo $molnum get numframes]
@@ -22,7 +23,7 @@ cylinders.close()
 # open file that contains all of the resids for residue pairs < than 9 A apart
 # split the columns
 # set variables for atom selections, coords, and graphics
-# write all to new cylinders.tcl file
+# write (append) all to cylinders.tcl file
 with open('edge_list_out.dat', 'r') as edges:
     for line_number, line in enumerate(edges, 1):
         x = line.strip()
