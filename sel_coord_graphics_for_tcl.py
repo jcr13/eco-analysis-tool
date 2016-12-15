@@ -1,5 +1,17 @@
 #!/usr/bin/env python
 # james robertson write tcl file that has all info to draw cylinders b/w atoms
+# makes a file cylinders.tcl that can be sourced by vmd and contains the proc draw_cyl
+# to use in vmd
+# proc draw_cyl {molnum sleep {frame_skip 1} {frame_beg 0} {frame_end 1000000}}
+# molnum and sleep are required args (sleep in s); the remaining args default to given values
+# Example: to draw cyls for all frames of mol 0 and hold frame for 1 s
+# draw_cyl 0 1
+# Example: to do the same but in increments of 5 frames
+# draw_cyl 0 1 5
+# Example: to draw cyls for frames 20 to 50 of mol 0
+# draw_cyl 0 1 1 20 50
+# Example: to draw cyls for frame 10 of mol 0
+# draw_cyl 0 1 1 10 10
 
 import os
 
