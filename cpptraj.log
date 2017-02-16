@@ -4,3 +4,9 @@ trajin ../tmp-data/cavern/aperez/Blue/Casp_Protocol/HigherTolerances_Feb24/1BDD/
 trajout 1bdd.rst7
 run
 quit
+# 01/18/17 14:27:36
+parm 1nd9.parm7
+trajin 1nd9.nc 10 10 1
+trajout 1nd9.rst7
+run
+quit
